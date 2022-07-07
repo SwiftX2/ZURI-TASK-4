@@ -134,6 +134,8 @@ body{
 }
 a{
     text-decoration: none;
+    font-weight: bold;
+    padding: 1em;
     color: rgb(247, 244, 244);
 }
 button:hover{
